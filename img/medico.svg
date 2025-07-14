@@ -1,0 +1,6 @@
+<svg width="160" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="35" font-size="32" font-family="Segoe UI" fill="#004d61">Medi
+    <tspan fill="#00c2cb">co</tspan>
+  </text>
+  <circle cx="145" cy="20" r="5" fill="#e63946"></circle>
+</svg>
