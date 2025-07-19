@@ -315,11 +315,15 @@ footer{
 .f_box p{
     padding: 4px 0;
 }
-.f_box p i{
+.f_box i{
     font-size: 30px;
     padding: 5px 3px;
     cursor: pointer;
     
+}
+.f_box i:hover{
+   transform: scale(1.5);
+   text-shadow: 1px 1px 25px white;
 }
 
 .f_box1{
